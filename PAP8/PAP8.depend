@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1526141166 source:d:\pap8\fungsi.c
+	"header.h"
+
+1526143718 d:\pap8\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1526144099 source:d:\pap8\main.c
+	"header.h"
+
+1526340500 source:e:\alpro\pap8\main.c
+	"header.h"
+
+1526341506 e:\alpro\pap8\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1526341594 source:e:\alpro\pap8\fungsi.c
+	"header.h"
+
+1526341594 source:d:\alpro\pap8\fungsi.c
+	"header.h"
+
+1526341506 d:\alpro\pap8\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1526340500 source:d:\alpro\pap8\main.c
+	"header.h"
+
+1526361922 source:f:\alpro\pap8\fungsi.c
+	"header.h"
+
+1526362112 f:\alpro\pap8\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1526375196 source:f:\alpro\pap8\main.c
+	"header.h"
+
